@@ -3,7 +3,7 @@
 // Talks to the backend API at API_BASE_URL and renders the scan results.
 // ---------------------------------------------------------------------------
 
-const API_BASE_URL = "https://smart-resume-backend-1-asn8.onrender.com";
+const API_BASE_URL = "https://smart-resume-backend-m8pk.onrender.com";
 
 const jobDescriptionEl = document.getElementById("jobDescription");
 const resumeTextEl = document.getElementById("resumeText");
